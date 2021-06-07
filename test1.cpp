@@ -1,12 +1,3 @@
-// CS311 Stack test program
-// -- Should be used to test your stack class thoroughly
-// Note that the client knows nothing about the data members
-// Note that the client does not know about el_t and MAX
-// -- STUDY THIS FILE so that you can write your own test
-// programs for other HW assignments.
-// DO NOT CHANGE THIS FILE!
-//----------------------------------------------------
-
 using namespace std;
 
 #include <iostream>
